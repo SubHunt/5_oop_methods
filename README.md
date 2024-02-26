@@ -1,5 +1,6 @@
-Test OOP_5
-[![Build status](https://ci.appveyor.com/api/projects/status/854o5jxi6l588gjv?svg=true)](https://ci.appveyor.com/project/SubHunt/5-oop)
+#Test OOP_methods
+
+[![Build status](https://ci.appveyor.com/api/projects/status/avfuraxt30mq33i7?svg=true)](https://ci.appveyor.com/project/SubHunt/5-oop-methods)
 
 # Домашнее задание к лекции «Классы, наследование»
 
